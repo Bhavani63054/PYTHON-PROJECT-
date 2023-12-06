@@ -1,4 +1,4 @@
-# PYTHON-PROJECT
+# WeatherForecastPy
 import requests
 
 def get_weather(api_key, city):
